@@ -10,7 +10,9 @@ Easily specify waveforms for viewing
 Easily specify waveform radices
 Simple project time report
 Specify SDF file for timing simulations
- 
+
+Duolos link : https://doulos.com/knowhow/tcltk/example-tcl-and-tcltk-scripts-for-eda/modelsim-compile-script/
+
 Notes
 The Tcl variable library_file_list stores the library name(s) and files that should be compiled into each library. It is a two-dimensional Tcl formatted list. The first element is the name of a library, the second element is a list of files that should be compiled into that library. If there is more than one library then a third and fourth element should be written for the second library name and its list of files. And so on.
 
