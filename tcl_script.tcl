@@ -1,3 +1,6 @@
+
+# Testing out if the comment works here 
+# You can use windows command prompt to create a auto compile and simulation step by steph
 puts {
   ModelSim general compile script version 1.2
   Copyright (c) Doulos June 2017, SD
